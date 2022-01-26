@@ -1,0 +1,25 @@
+//Name: Daniel Carroll
+//Login: C00272187
+//Date: 26/1/22
+//Program: Reaserch Doc Draft
+//Time taken: 10m
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-Things needed that I already understand
+Sf::Sprite [setorigin] //sets the sprite position on the texture
+Sf::Sprite [setposition] //sets the position of the sprite in the window
+Sf::Sprite [settexturerectangle] //crops the sprite texture
+Sf::Sprite [settexture] //assigns the sprite an allocated texture
+SF::Texture [loadfromfile] //loads texture/font/sound files to be assigned or played
+Sf::event [mousebuttonpressed, mousebuttonreleased] //used to detect user mouse press and releases
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-Things I need to research
+Sf::Sprite [setRotation]
+SF::Texture [setrepeated]
+SF::mouse [left,right]
+Sf::Event::mousebutton [x,y, button]
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
