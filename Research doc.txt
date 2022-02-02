@@ -17,9 +17,9 @@ Sf::event [mousebuttonpressed, mousebuttonreleased] //used to detect user mouse 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 -Things I need to research
-Sf::Sprite [setRotation]
-SF::Texture [setrepeated]
-SF::mouse [left,right]
-Sf::Event::mousebutton [x,y, button]
+Sf::Sprite [setRotation] //sets rotation on the origin
+SF::Texture [setrepeated] //sets the texture of a sprite multiple times over the area of the sprite
+SF::mouse [left,right] //gets inputs for left/right click of mouse
+Sf::Event::mousebutton [x,y, button] //event is triggered when mouse button is pressed/released
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
